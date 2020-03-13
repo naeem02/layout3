@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding:0;
+}
+header h1{
+    background-color: royalblue;
+    text-align: center;
+    padding: 20px;
+}
+section{overflow: hidden;}
+
+
+section nav{
+    background-color: red;
+    text-align: center;
+    width: 30%;
+    height: 500px;
+    float: left;
+
+}
+section aside{
+    background-color: sandybrown;
+    text-align: center;
+    width: 20%;
+    height: 300px;
+    float: right;
+    
+}
+section article{
+    background-color: green;
+    text-align: center;
+    
+    height: 500px;
+    
+    
+}
+footer{
+    background-color: rgb(247, 12, 122);
+    text-align: center;
+    padding: 50px;
+    margin: 0;
+    
+}
